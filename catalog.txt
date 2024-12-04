@@ -1,0 +1,5 @@
+The Great Gatsby,F. Scott Fitzgerald,ID001,1
+To Kill a Mockingbird,Harper Lee,ID002,0
+1984,George Orwell,ID003,1
+The Catcher in the Rye,J.D. Salinger,ID004,0
+Pride and Prejudice,Jane Austen,ID005,1
